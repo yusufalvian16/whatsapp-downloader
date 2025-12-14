@@ -8,11 +8,11 @@ Aplikasi Android sederhana untuk mengunduh media dari WhatsApp Status dengan mud
 
 <div align="center">
 
-### [🔗 **DOWNLOAD APK DI SINI**](https://github.com/yusufalvian16/whatsapp-downloader)
+### [🔗 **DOWNLOAD APK DI SINI**](https://github.com/yusufalvian16/whatsapp-downloader/releases/tag/Apps)
 
-[![Download](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/yusufalvian16/whatsapp-downloader)
+[![Download](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/yusufalvian16/whatsapp-downloader/releases/tag/Apps)
 
-**👉 [Klik di sini untuk download aplikasi](https://github.com/yusufalvian16/whatsapp-downloader)**
+**👉 [Klik di sini untuk download aplikasi](https://github.com/yusufalvian16/whatsapp-downloader/releases/tag/Apps)**
 
 </div>
 
@@ -70,8 +70,8 @@ Aplikasi ini dibuat untuk keperluan pribadi dan edukasi.
 
 <div align="center">
 
-### [🔗 **DOWNLOAD APK DI SINI**](https://github.com/yusufalvian16/whatsapp-downloader)
+### [🔗 **DOWNLOAD APK DI SINI**](https://github.com/yusufalvian16/whatsapp-downloader/releases/tag/Apps)
 
-**👉 [Klik untuk download aplikasi](https://github.com/yusufalvian16/whatsapp-downloader)**
+**👉 [Klik untuk download aplikasi](https://github.com/yusufalvian16/whatsapp-downloader/releases/tag/Apps)**
 
 </div>
