@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story Wa Downloader</string>
+    <string name="home">Beranda</string>
+    <string name="downloads">Unduhan</string>
+    <string name="settings">Pengaturan</string>
+    <string name="refresh">Muat Ulang</string>
+    <string name="download">Unduh</string>
+    <string name="cancel">Batal</string>
+    <string name="delete">Hapus</string>
+    <string name="loading">Memuat...</string>
+    <string name="no_media">Tidak ada media ditemukan</string>
+    <string name="download_success">Berhasil mengunduh</string>
+    <string name="download_error">Gagal mengunduh</string>
+    <string name="permission_required">Izin penyimpanan diperlukan</string>
+    <string name="grant_permission">Berikan Izin</string>
+    <string name="developer">Dibuat oleh: yusufalvian16</string>
+</resources>
